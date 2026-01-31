@@ -14,3 +14,7 @@
 
 
 #OUTPUT:
+
+PROBLEM STATEMENT:
+
+<img width="1917" height="1022" alt="Image" src="https://github.com/user-attachments/assets/70192d84-71dd-4cef-aa68-a528b12a077a" />
