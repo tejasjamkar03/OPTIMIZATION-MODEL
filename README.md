@@ -33,3 +33,10 @@ RESULT AND CONCLUSION:
 
 #DESCRIPTION:
 
+This project focuses on solving a real-world business optimization problem using Linear Programming (LP) techniques. The objective is to help a manufacturing company maximize its total profit while operating under limited resources such as machine hours and labor availability.
+
+The problem is mathematically formulated by defining decision variables, an objective function, and a set of constraints that represent real business limitations. The optimization model is implemented in Python using the PuLP library, which provides an efficient and user-friendly interface for solving linear programming problems.
+
+By applying optimization techniques, the project identifies the optimal production quantities for each product that yield the highest possible profit without exceeding available resources. The results are analyzed to extract meaningful business insights, such as identifying critical resources and understanding which products contribute more effectively to profitability.
+
+This project demonstrates how operations research and optimization models can support data-driven decision-making in business environments. It also highlights the practical use of Python for solving optimization problems, making it highly relevant for real-world industrial and data science applications.
