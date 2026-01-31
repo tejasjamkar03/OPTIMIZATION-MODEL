@@ -23,3 +23,5 @@ MATHEMATICAL MODEL AND CODE:
 
 <img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/b680cfe9-7bb7-470a-9335-03b8ed7fb995" />
 
+<img width="1918" height="1023" alt="Image" src="https://github.com/user-attachments/assets/f0dd122f-b9ca-490a-be92-e44da634020c" />
+
