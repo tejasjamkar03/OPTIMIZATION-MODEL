@@ -29,7 +29,7 @@ MATHEMATICAL MODEL AND CODE:
 
 RESULT AND CONCLUSION:
 
-
+<img width="1918" height="1022" alt="Image" src="https://github.com/user-attachments/assets/5b655dcf-d70b-43e1-9ce6-23695a825c5e" />
 
 #DESCRIPTION:
 
