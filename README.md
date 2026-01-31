@@ -25,3 +25,11 @@ MATHEMATICAL MODEL AND CODE:
 
 <img width="1918" height="1023" alt="Image" src="https://github.com/user-attachments/assets/f0dd122f-b9ca-490a-be92-e44da634020c" />
 
+<img width="1918" height="1022" alt="Image" src="https://github.com/user-attachments/assets/e2d80504-474e-49c2-8120-1ce14f929959" />
+
+RESULT AND CONCLUSION:
+
+
+
+#DESCRIPTION:
+
